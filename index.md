@@ -34,7 +34,7 @@ Markdown is a lightweight markup language that allows you to format text using s
    - Use the greater than `>` symbol followed by a space to create blockquotes.
    - Example: `> This is a blockquote.`
 
-7. Code:
+7. Code: got step 4
    - Use backticks \` to denote inline code.
    - Use triple backticks \`\`\` to denote code blocks. You can also specify the language after the opening triple backticks for syntax highlighting.
    - Example:
