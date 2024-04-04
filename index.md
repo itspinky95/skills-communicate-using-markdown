@@ -57,3 +57,7 @@ Markdown is a lightweight markup language that allows you to format text using s
    - Images are created using an exclamation mark followed by square brackets for alt text and parentheses for the URL.
 
 These are the basic Markdown syntax elements. There are additional features and extensions available, but these cover the fundamentals.
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
