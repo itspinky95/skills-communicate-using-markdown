@@ -52,4 +52,18 @@ Markdown is a lightweight markup language that allows you to format text using s
    - Use three or more hyphens `-`, asterisks `*`, or underscores `_` to create a horizontal rule.
    - Example: `---`, `***`, `___`
 
+
+ 9. Links
+
+You can create links in Markdown using square brackets to contain the anchor text and parentheses to contain the URL.
+
+[GitHub](https://github.com)
+
+## Images
+
+You can add images to Markdown using an exclamation mark (!), followed by square brackets containing alt-text, and parentheses containing the URL of the image.
+
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
+
+
 These are the basic Markdown syntax elements. There are additional features and extensions available, but these cover the fundamentals.
