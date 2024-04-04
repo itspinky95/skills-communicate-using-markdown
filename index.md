@@ -34,7 +34,7 @@ Markdown is a lightweight markup language that allows you to format text using s
    - Use the greater than `>` symbol followed by a space to create blockquotes.
    - Example: `> This is a blockquote.`
 
-7. Code: got step 4
+7. Code:
    - Use backticks \` to denote inline code.
    - Use triple backticks \`\`\` to denote code blocks. You can also specify the language after the opening triple backticks for syntax highlighting.
    - Example:
@@ -52,18 +52,8 @@ Markdown is a lightweight markup language that allows you to format text using s
    - Use three or more hyphens `-`, asterisks `*`, or underscores `_` to create a horizontal rule.
    - Example: `---`, `***`, `___`
 
-
- 9. Links
-
-You can create links in Markdown using square brackets to contain the anchor text and parentheses to contain the URL.
-
-[GitHub](https://github.com)
-
-## Images
-
-You can add images to Markdown using an exclamation mark (!), followed by square brackets containing alt-text, and parentheses containing the URL of the image.
-
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
-
+9. Links and Images:
+   - Links are created using square brackets for the anchor text and parentheses for the URL.
+   - Images are created using an exclamation mark followed by square brackets for alt text and parentheses for the URL.
 
 These are the basic Markdown syntax elements. There are additional features and extensions available, but these cover the fundamentals.
